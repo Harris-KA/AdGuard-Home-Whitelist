@@ -165,8 +165,6 @@
 # Shopify.com eCommerce Software
 @@||v.shopify.com^$important
 @@||s.shopify.com^$important
-# Wordpress
-@@||wp.com^$important
 @@||s1.wp.com^$important
 @@||wordpress.com^$important
 # Avangate Shop

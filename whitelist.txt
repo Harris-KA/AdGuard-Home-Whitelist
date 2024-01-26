@@ -307,8 +307,6 @@
 @@||svc90.main.px.t-online.de^$important
 # Earthquake App
 @@||fe-lb.tranquilli.org^$important
-# Reddit
-@@||reddit.com^$important
 # WhatsApp
 @@||whatsapp.net^$important
 @@||whatsapp.com^$important

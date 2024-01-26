@@ -145,8 +145,6 @@
 @@||s0.2mdn.net^$important
 # Audioscrobbler.com
 @@||ws.audioscrobbler.com^$important
-# Pinterest
-@@||pinterest.com^$important
 # Placehold it image soft
 @@||placehold.it^$important
 @@||placeholdit.imgix.net^$important

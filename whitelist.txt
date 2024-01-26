@@ -158,7 +158,6 @@
 @@||v.shopify.com^$important
 @@||s.shopify.com^$important
 # Wordpress
-@@||wp.com^$important
 @@||wordpress.com^$important
 # Avangate Shop
 @@||secure.avangate.com^$important
